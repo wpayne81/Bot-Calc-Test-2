@@ -1,4 +1,5 @@
 
+
 body {
     font-family: Arial, sans-serif;
     background-color: #F7F7F7;
@@ -73,4 +74,8 @@ button:disabled {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
+}
+
+.action-buttons button {
+    width: 45%;
 }
